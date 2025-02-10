@@ -2,6 +2,6 @@ streamlit
 pandas 
 matplotlib
 seaborn
-sklearn.cluster
+scikit-learn
 geopandas
 warnings
